@@ -8,9 +8,9 @@
 
 <!-- **SHAIK-MUNEERUDDIN/SHAIK-MUNEERUDDIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### 💫About Me, @Shaik_Muneeruddin
+### About Me, @Shaik_Muneeruddin
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Web-Frontend-Developer;Developer;Web-Designer;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&vCenter=true&width=435&lines=Frontend-Developer;Web-Developer;Web-Designer;" alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300"/>
@@ -62,3 +62,30 @@ Looking forward to connecting and creating amazing projects together!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<div align="center">
+  
+![Under construction](https://user-images.githubusercontent.com/282759/84681715-8c7cb580-af02-11ea-85a4-05d069c72121.gif)
+
+You are visitor number:
+
+![Visitor Count](https://profile-counter.glitch.me/SHAIK-MUNEERUDDIN/count.svg)
+
+<div align="center">
+  
+<sup>Best viewed with:</sup><br />[![Microsoft Internet Explorer](https://user-images.githubusercontent.com/282759/84683523-52f97980-af05-11ea-9da0-639e1c368536.gif)](https://www.microsoft.com/en-gb/download/internet-explorer.aspx)
+
+<sup>Can no longer be viewed with:</sup><br />[![Netscape Navigator](https://user-images.githubusercontent.com/68993968/113916671-27b78200-97d8-11eb-9496-1c45ce25568e.gif)](https://www.netscape.com)
+
+</div>
+
+</p>
+ 
+<!--![snake gif](https://github.com/SmashedFrenzy16/SmashedFrenzy16/blob/output/github-contribution-grid-snake.gif)-->
+ 
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
+  <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
+</div>
